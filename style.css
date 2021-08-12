@@ -1,0 +1,31 @@
+*
+{background-color: #212020;}
+
+
+ul{
+    float: right;
+	list-style-type: none;
+	margin-top: 0px;
+
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration-style: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+
+h1{font-size: 64px;}
+h1{padding-top: 270px;}
+h1{padding-left: 75px;}
+h1{color: whitesmoke;}
